@@ -1,2 +1,2 @@
-&nome_cresitos_desenvolvimento = "Guilherme Venancio";
-&link_crsditos_desenvolvimento = "https://linktr.ee/guivenancio.doc";
+&nome_creditos_desenvolvimento = "Guilherme Venancio";
+&link_creditos_desenvolvimento = "https://linktr.ee/guivenancio.doc";
